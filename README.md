@@ -1,6 +1,7 @@
 # Hello World
 
-A simple package that can print "Hello World" 
+A project that demonstrates how to create a Python package.
+The code in it just prints "Hello World".
 
 ## Installation
 
