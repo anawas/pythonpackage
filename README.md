@@ -21,3 +21,6 @@ say_hello()
 # Generate "Hello Everybody"
 say_hello("Everybody")
 ```
+
+## References
+This template is inspired by an excellent and comprehensible talk from Mark Smith from Nexmo. His talk can be found on Youube: https://www.youtube.com/watch?v=GIF3LaRqgXo
